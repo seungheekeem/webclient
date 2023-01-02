@@ -18,11 +18,11 @@ public class BusinessService {
 
 
     public void sample2(){
-        log.info("비지니스로직!");
+        log.info("비지니스로직3!!");
         nextBusiness();
     }
 
     public void nextBusiness(){
-        log.info("nextBusiness 수행");
+        log.info("nextBusiness 수행!!");
     }
 }
